@@ -66,16 +66,16 @@ To address this, I developed multiple **deep learning architectures** — from c
 
 ```
 -------------------------------------------------
-                 ┌───────────────────────────────┐
-                 │       U-Net Generator         │
-                 │  (Encoder–Decoder with skips) │
-                 └───────────────────────────────┘
-                            │
-                            ▼
-                 ┌───────────────────────────────┐
-                 │     PatchGAN Discriminator     │
-                 │  (classifies real/fake patches)│
-                 └───────────────────────────────┘
+      ┌───────────────────────────────┐
+      │       U-Net Generator         │
+      │  (Encoder–Decoder with skips) │
+      └───────────────────────────────┘
+                      │
+                      ▼
+      ┌───────────────────────────────┐
+      │    PatchGAN Discriminator     │
+      │ (classifies real/fake patches)│
+      └───────────────────────────────┘
 ```
 
 ---
