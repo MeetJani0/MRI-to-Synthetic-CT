@@ -223,7 +223,7 @@ To address this, I developed multiple **deep learning architectures** — from c
 
 | Input MRI               | Ground Truth CT       | Predicted CT              |
 | ----------------------- | --------------------- | ------------------------- |
-| ![MRI](mri.png) | ![CT](ct.png) | ![Pred](pred.png) |
+| ![MRI](MRI.png) | ![CT](CT.png) | ![Pred](Pred.png) |
 
 ---
 
