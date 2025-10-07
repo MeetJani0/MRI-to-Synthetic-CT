@@ -163,7 +163,7 @@ To address this, I developed multiple **deep learning architectures** — from c
 
 ### 📉 Training Loss Curves
 
-![Training Loss Curves](loss_curve (2).png)
+![Training Loss Curves](loss_curve.png)
 
 > The generator converges steadily with decreasing L1 and SSIM losses, while discriminator loss stabilizes near 0.6 — indicating balanced adversarial learning.
 
