@@ -232,7 +232,7 @@ To address this, I developed multiple **deep learning architectures** — from c
 **Meet Jani**
 📧 [janimeet59@gmail.com](mailto:janimeet59@gmail.com)
 
-🔗 [**LinkedIn**]([www.linkedin.com/in/janimeet](https://www.linkedin.com/in/janimeet]) | [**GitHub**](https://github.com/MeetJani0)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/janimeet) | [**GitHub**](https://github.com/MeetJani0)
 
 🎓 *Minor in Data Science & Machine Learning — IIT Mandi (in collaboration with Masai School)*
 
