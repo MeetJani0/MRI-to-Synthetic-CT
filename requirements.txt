@@ -1,0 +1,11 @@
+# Python 3.8+ recommended
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.3
+torch>=2.0
+torchvision>=0.15
+scikit-learn>=1.0
+scikit-image>=0.18
+nibabel>=5.0
+tqdm>=4.60
+ipywidgets>=7.6
